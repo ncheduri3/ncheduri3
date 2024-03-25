@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namyata Cheduri</h1>
 <h3 align="center">I am an artistic engineer : Tech fuels my craft and code, art fuels my innovation!</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language processing and Software Engineering for ML**
+- 🌱 I’m currently learning **Deep Learning, Natural Language processing and MLOps**
 
 - 💬 Ask me about **API design, Python, Flask, Kubernetes, Docker, Data Management, Data Engineering**
 
